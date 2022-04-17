@@ -13,3 +13,7 @@ Linux:
 
 * Compile and run the program with:
     python3 transform.py
+
+Some examples:
+
+![moon](https://user-images.githubusercontent.com/95092496/163725304-81359842-72c4-4a61-b993-f195ae919f2b.png)
