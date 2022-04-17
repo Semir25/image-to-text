@@ -13,3 +13,11 @@ Linux:
 
 * Compile and run the program with:
     python3 transform.py
+
+Some examples:
+https://user-images.githubusercontent.com/95092496/163723042-402df4f0-2da9-4c9c-ac2e-bad18c839c33.png
+
+![Screenshot from 2022-04-17 18-03-15](https://user-images.githubusercontent.com/95092496/163723090-a00a1ad0-809a-478e-a730-237d7de3718c.png)
+
+![Screenshot from 2022-04-17 18-04-15](https://user-images.githubusercontent.com/95092496/163723098-f1ebe151-9aec-4a44-b537-b230050a8a6a.png)
+
