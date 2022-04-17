@@ -15,7 +15,8 @@ Linux:
     python3 transform.py
 
 Some examples:
-https://user-images.githubusercontent.com/95092496/163723042-402df4f0-2da9-4c9c-ac2e-bad18c839c33.png
+
+![Screenshot from 2022-04-17 18-05-30](https://user-images.githubusercontent.com/95092496/163723117-623814ca-25b9-4e0e-b173-be63243bf2a4.png)
 
 ![Screenshot from 2022-04-17 18-03-15](https://user-images.githubusercontent.com/95092496/163723090-a00a1ad0-809a-478e-a730-237d7de3718c.png)
 
